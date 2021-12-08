@@ -1,0 +1,32 @@
+﻿[
+  {
+    "ordered": true,
+    "account": 20210001,
+    "password": "绫波 丽"
+  },
+  {
+    "ordered": false,
+    "account": 20210002,
+    "password": "惣流·明日香·兰格雷"
+  },
+  {
+    "ordered": true,
+    "account": 20210003,
+    "password": "碇真 嗣"
+  },
+  {
+    "ordered": false,
+    "account": 20210005,
+    "password": "渚 薰"
+  },
+  {
+    "ordered": false,
+    "account": 20210005,
+    "password": "第十七使徒"
+  },
+  {
+    "ordered": true,
+    "account": 20210000,
+    "password": "初号机"
+  }
+]
